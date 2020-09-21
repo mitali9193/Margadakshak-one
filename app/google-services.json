@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798065870755",
+    "firebase_url": "https://authenicationtrial.firebaseio.com",
+    "project_id": "authenicationtrial",
+    "storage_bucket": "authenicationtrial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798065870755:android:c6f3f0d9624827f221bc16",
+        "android_client_info": {
+          "package_name": "com.example.authenicationtrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798065870755-ev4ng4ida3dlu0jvoeu3lvlqr6sl0dut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFd3Hiyzi7GKrU1b0arc5jskdi2RMD6D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798065870755-ev4ng4ida3dlu0jvoeu3lvlqr6sl0dut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
